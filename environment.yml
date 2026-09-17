@@ -1,0 +1,9 @@
+name: uxarray-usclivar
+channels:
+  - conda-forge
+dependencies:
+  - fastparquet
+  - jupyterlab
+  - kerchunk
+  - nc-time-axis
+  - uxarray
