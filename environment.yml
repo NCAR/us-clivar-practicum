@@ -9,3 +9,4 @@ dependencies:
   - uxarray
   - aiohttp
   - requests
+  - zarr>=3.0.0
