@@ -7,3 +7,5 @@ dependencies:
   - kerchunk
   - nc-time-axis
   - uxarray
+  - aiohttp
+  - requests
